@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm serhat</h1>
-<h3 align="center">A passionate Back-End developer From Turkiye</h3>
+<h3 align="center">A passionate Full Stack developer From Turkiye</h3>
 
 - 🔭 I’m currently working on **React**
 

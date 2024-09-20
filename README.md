@@ -1,4 +1,4 @@
-![MasterHead](https://blog.hrflow.ai/content/images/2020/04/Full-Stack-Developer.jpg)
+![MasterHead](https://media.licdn.com/dms/image/D4D12AQHiWNCRjPrJ4w/article-cover_image-shrink_600_2000/0/1687168438236?e=2147483647&v=beta&t=cLX8ycGZ9dkbkMz70yJUZdBINaMPh3pwiaqTRw2PCJw)
 
 
 <h1 align="center">Hi 👋, I'm serhat</h1>

@@ -1,19 +1,19 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D12AQHiWNCRjPrJ4w/article-cover_image-shrink_600_2000/0/1687168438236?e=2147483647&v=beta&t=cLX8ycGZ9dkbkMz70yJUZdBINaMPh3pwiaqTRw2PCJw)
+![MasterHead](https://wallpapercave.com/wp/wp8591267.jpg)
 
 
 <h1 align="center">Hi 👋, I'm serhat</h1>
-<h3 align="center">A passionate Full Stack developer From Turkiye</h3>
+<h3 align="center">Merhaba Ben Serhat, yazılım geliştirmeye tutkulu bir Jr. Backend Developer'ım. React, C#, .NET ve daha birçok teknoloji ile projeler geliştirmeye odaklanıyorum. Yeni teknolojileri öğrenmek ve uygulamak için sürekli çalışıyorum.</h3>
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **C#, Python**
+- 🌱 I’m currently learning **C#
 
 - 📫 How to reach me **seerhatuzun@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_serhatuzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_serhatuzn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/serhat uzun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serhat uzun" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/serhatuzunn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serhat uzun" height="30" width="40" /></a>
 <a href="https://instagram.com/serrhatuzun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="serrhatuzun" height="30" width="40" /></a>
 </p>
 
